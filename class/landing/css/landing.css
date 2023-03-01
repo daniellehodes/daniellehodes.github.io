@@ -1,0 +1,15 @@
+body {
+    font-size: 22px;
+    color: #664C4B;
+    background-color: #FAF7F3;
+    font-family: font-family:'Orbitron', sans-serif;
+}
+img {
+    max-height: 400px;
+}
+.top {
+    margin: 3em 0;
+}
+.grid {
+    max-height: 500px;
+}
