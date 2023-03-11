@@ -1,15 +1,32 @@
+/*Orbitron
+Regular 400
+Medium 500
+SemiBold 600
+Bold 700
+ExtraBold 800
+*/
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    width: 20px;
+}
 body {
     font-size: 22px;
     color: #664C4B;
     background-color: #FAF7F3;
-    font-family: font-family:'Orbitron', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.menu {
+    background-color: #F8DCD1;
 }
 img {
-    max-height: 400px;
+    max-height: 800px;
 }
 .top {
-    margin: 3em 0;
+    margin: 1.5em 0;
 }
 .grid {
     max-height: 500px;
+}
+footer {
+    font-size: 15px;
 }
