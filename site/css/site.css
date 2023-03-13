@@ -1,0 +1,76 @@
+/*
+Playfair Display
+font-family: 'Playfair Display', serif;
+Regular 400
+
+
+Regular 400 Italic
+
+
+Medium 500
+
+
+Medium 500 Italic
+
+
+SemiBold 600
+
+
+Bold 700
+
+Lato
+font-family: 'Lato', sans-serif;
+Regular 400
+
+
+Regular 400 Italic
+
+
+Bold 700
+ color:  #F7E4E7
+ color: #E6E8EA
+ color: #FFFFFF
+ color: #000000
+color: red #B30609
+ #bda09c
+
+*/
+
+
+
+
+
+body {
+    background-color:#bda09c;
+    color: #ffffff;
+    margin: 0.5em 0 0 0;
+}
+h2{
+    font-family: Playfair-Display;
+    margin: 0.5em 0 0 0;
+}
+h3 {
+    font-family: Playfair-Display;
+    margin: 0.5em 0 0 0;
+}
+header{
+    margin: 1em 0 8em 3em;
+}
+h1,header,menu {
+    font-family: Playfair-Display;
+    margin: 0.5em 0 0.5em 0;
+}
+.resume {
+    margin: 1em 0.5em 1m 0.5em;
+}
+
+.contact {
+    margin: 1em 1em 1em 1em;
+    font-family: Lato;
+}
+h4 {
+    margin: 1em 0em 1em 0em
+}
+.heading {
+    margin: 10em 0em 0em 0em 
+}

@@ -10,13 +10,16 @@ h1 {
     width: 20px;
 }
 body {
-    font-size: 22px;
+    font-size: 15px;
     color: #664C4B;
     background-color: #FAF7F3;
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 .menu {
     background-color: #F8DCD1;
+    font-size: 22px;
+    color: #664C4B;
+    text-decoration: none;
 }
 img {
     max-height: 800px;
@@ -29,4 +32,12 @@ img {
 }
 footer {
     font-size: 15px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+   
+.address {
+    font-style: bold;
+    text-align: left;
+    font-size: 22px;
 }
