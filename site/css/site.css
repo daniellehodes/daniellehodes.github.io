@@ -69,11 +69,14 @@ h1,header,menu {
     font-family: Lato;
 }
 h4 {
-    margin: 1em 0em 1em 0em
+    margin: 1em 0em 1em 0em;
 }
 .heading {
     margin: 10em 0em 0em 0em 
 }
 .img {
-    margin: 8em 0em 0.5em 0em;
+    margin: 0em 0em 0em 0em;
+}
+h5 {
+    margin: 0em 0em 3em 0em;
 }
