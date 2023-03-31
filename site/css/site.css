@@ -1,70 +1,83 @@
 body {
     background-color: #bda09c;
     color: #ffffff;
-    margin: 0.5em 0 0 0;
 }
+
+h1 {
+    font-size: 1.75em;
+
+}
+
 h2 {
-    font-family: 'Playfair Display', serif;
-    margin: 0.5em 0 0.5em 0;
+    margin: 0.5em 0em 0.5em 0;
 }
+
 h3 {
-    font-family: 'Playfair Display', serif;
-    margin: 0.5em 0 0 0;
+    margin: 0.5em 0em 0em;
 }
+
 header {
-    margin: 1em 0 8em 3em;
+    margin: 2em 0em 5em 0em;
 }
+
 h1,
+h2,
+h3,
+h4,
 header,
-menu {
+.nav-link {
     font-family: 'Playfair Display', serif;
-    margin: 1em 0;
+
 }
-.resume {
-    margin: 1em 0.5em 1m 0.5em;
-}
-h4 {
-    margin: 1em 0em 1em 0em;
-}
-.heading {
-    margin: 10em 0em 0em 0em
-}
+
+
+
 .img {
-    margin: 0em 0em 0em 0em
+    margin: 0em 0em 0em 0em;
 }
-h5 {
-    margin: 0em 0em 3em 0em;
-}
+
 .narrow {
-    margin: 0 0em;
+    margin: 0em 0em;
 }
+
+.description {
+    font-size: medium;
+}
+
+
+.narrow {
+    margin: 0em 0em;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
     font-weight: 600;
 }
+
+section {
+    margin: 1.5em 0;
+}
+
 .nav-link {
-    text-transform: capitalize;
+    text-transform: uppercase;
     color: black;
 }
-.description {
-    font-size: medium;
-}
+
 .nav-link:hover {
-    color: white
+    color: white;
 }
+
 @media(max-width:768px) {
     .nav-link {
         padding: 0 1em 0 0;
         font-size: 1.25em;
     }
 }
+
 @media (max-width:576px) {
     .nav-link {
-        padding: 0 1em 0 0;
+        padding: 0em 1em 0em 0em;
         font-size: 1.25em;
     }
-}
-.narrow {
-    margin: 0 0;
 }
