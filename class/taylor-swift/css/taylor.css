@@ -1,0 +1,97 @@
+.description {
+    background-color: #0E171A;
+    color: #FAFAFA;
+    padding-top:170px;
+    padding-bottom: 230px;
+}
+.nav-link {
+    color:#FAFAFA;
+    text-decoration: underline;
+}
+code {
+    color:#0E171A
+}
+header,
+p,
+h2,
+h3,
+h4 {
+    font-family: 'Cabin Condensed', sans-serif;
+}
+header p{
+    font-size: .65em;
+    letter-spacing: 1.5px;
+}
+h1 {
+    font-size:3em; 
+    font-weight: 700;
+}
+h2 {
+    font-size:1.5em;
+}
+h3{ 
+    font-size: 1.25em;
+    text-transform:uppercase; 
+}
+h4 {
+    font-size:1.25em;
+    color:#b2322d;
+}
+body {
+    font-weight: 16px;
+}
+main {
+    padding-top:50px;
+}
+p, 
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+img {
+    margin: 5em,0em, 5m, 0em;
+}
+a{
+    color: #0E171A;
+    text-decoration: underline;
+}
+.chart p {
+    font-style: italic;
+}
+
+.launch b {
+    color:#FAFAFA;
+    background-color: #b2322d;
+    padding: 2px;
+}
+.verticle-line h2 {
+    padding-top: 0;
+}
+.verticle-line { 
+    border-left: 2px solid #b2322d;
+    padding-left: 8px;
+    top:0px;
+    bottom:0px;
+    content: "";
+    padding-top: 0px;
+}
+.spotify p{
+    font-style: italic;
+}
+.visuals p {
+    padding-top: 8px;
+    padding-bottom: 1px;
+}
+.visuals h2, h3,h4 {
+    padding-bottom: 5px;
+    padding-top: 30px;
+}
+.header h2, h3 {
+    padding-bottom: 1px;
+    padding-top: 20px;
+}
+footer {
+    font-size: .65em;
+    color:#0E171A;
+}
