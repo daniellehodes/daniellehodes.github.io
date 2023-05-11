@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'open sans', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+    padding-top: 150px;
+}
+
+header {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+}
+
+.content {
+    margin-left: 14em;
+    margin-right: 13em;
+}
+
+.img {
+    max-width: 93%;
+    margin-bottom: 1em;
+}
+
+.safety {
+    margin: 0em;
+    margin-right: 30em;
+}
+footer, {
+    font-style:italic;
+}
+
+@media(max-width:768px) {
+    body {
+        margin: 0;
+        font-size: 1.25em;
+    }
+}
+
+@media (max-width:576px) {
+    img {
+        padding: 0em 1em 0em 0em;
+        font-size: 1.25em;
+    }
+}
+
+
+/*font famoilies
+
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Sofia Sans Semi Condensed', sans-serif;
+Open+Sans:wght@300;400&family
+*/
