@@ -37,13 +37,11 @@ font-style: italic;
 @media(max-width:768px) {
     body {
         margin: 0;
-        font-size: 1.25em;
     }
 }
 @media (max-width:576px) {
     img {
         padding: 0em 1em 2em 0em;
-        font-size: 1.25em;
         margin-left: 0em;
         margin-right: 0em;
     }
