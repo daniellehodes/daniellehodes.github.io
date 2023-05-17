@@ -10,7 +10,9 @@ h1 {
     font-weight: 500;
     padding-top: 150px;
 }
-
+b {
+    color:#FE2C55; 
+}
 header {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -18,7 +20,7 @@ header {
 }
 
 .content {
-    margin-left: 14em;
+    margin-left: 13em;
     margin-right: 13em;
 }
 
@@ -48,7 +50,7 @@ footer, {
         font-size: 1.25em;
     }
 }
-
+@media(min-width)
 
 /*font famoilies
 
